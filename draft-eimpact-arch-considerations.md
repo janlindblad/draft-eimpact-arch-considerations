@@ -181,6 +181,17 @@ improvements.
 
 ### Analysis
 
+#### Principle 1: Describe the collected data using YANG
+
+#### Principle 2: Work with existing equipment
+
+#### Principle 3: Define telemetry component roles: providers, collectors, aggregators, processors
+
+#### Principle 4: Add YANG and metadata where missing, and keep the metadata with the data
+
+#### Principle 5: Let's bring in the economists from SBTi, GHGP, etc.
+
+
 (TBD add something about integrating lifecycle, datasheet
 etc. information and how they are shared)
 
